@@ -17,4 +17,4 @@ If you don't follow the rules, then your savegame will be deleted from there!
 
 ► NTSC-J or J: Japanese Version of a game
 
-PAL was a standard video output only in Europe, that's why PAL games are sometimes slower then the NTSC-Versions.
+PAL was a standard video output only in Europe, that's why PAL games are sometimes slower than the NTSC-Versions.
