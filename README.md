@@ -1,6 +1,6 @@
 # Welcome to the Project64 (100%) Savegame Collection!
 
-This will be an archive for Project64 Savegames, because there aren't anymore such websites to download legit .EEP/.SRA/etc. pp. Savegames for Project64.
+This will be an archive for Project64 Savegames, because there aren't anymore many websites to download legit .EEP/.SRA/etc. pp. Savegames for Project64.
 That's why I've decided to make my own GitHub Repository for that!
 
 If you wanna upload a savefile, then please make a folder for the game and a folder for your Savegame Region because I wanna have a folder structure in this repository! As expamle: **"/Super Mario 64/NTSC-U/Super Mario 64 (U).eep"**.
