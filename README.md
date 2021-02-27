@@ -12,7 +12,9 @@ If you don't follow the rules, then your savegame will be deleted from there!
 # Information about some Folder and Filename defenitions:
 
 ► PAL or E: Europe Version of a game
+
 ► NTSC-U or U: American Version of a game
+
 ► NTSC-J or J: Japanese Version of a game
 
 PAL was a standard video output only in Europe, that's why PAL games are sometimes slower then the NTSC-Versions.
