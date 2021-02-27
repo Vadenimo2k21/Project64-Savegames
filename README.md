@@ -9,7 +9,7 @@ Don't forget, to rename your Savegame with the ROM Version on it, that would be 
 
 If you don't follow the rules, then your savegame will be deleted from there!
 
-# Information about some Folder and Filename defenitions:
+# Information about Folder and Filename defenitions:
 
 ► PAL or E: Europe Version of a game
 
